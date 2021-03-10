@@ -1,0 +1,147 @@
+body{
+  text-align: center;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+
+
+}
+h1{
+  margin: 40px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  text-shadow: 1px 1px 2px black;
+  color: #ff9292;
+
+}
+h2 {
+font-family: 'Merriweather', serif;
+color:#ff9292;
+
+}
+h3 {
+font-family: 'Merriweather', serif;
+color:#ff9292;
+
+}
+p {
+  font-size: 20px;
+  color: grey
+}
+.about {
+  margin: 0 auto auto auto;
+  font-size: 2rem;
+  color:#ff9292;
+  font-weight: normal;
+}
+.top-container {
+   background-color:#DDD;
+   position: relative;
+
+   padding-top: 100px;
+
+}
+ .pro {
+   text-decoration: underline;
+ }
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.profile img {
+  margin-top: 10px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.skill1 {
+  width: 150px;
+  height: 150px;
+  float:left;
+  margin-right: 30px;
+}
+.skill2 {
+  width: 150px;
+  height: 150px;
+  float:right;
+  margin-left: 30px;
+}
+.skill3 {
+  width: 150px;
+  height: 150px;
+  float:left;
+  margin-right: 30px;
+}
+.middle-container {
+  background-color: #e8eae6;
+
+}
+hr {
+  border-style: none;
+  width:5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border-top-style: dotted;
+  border-color:  #DDD;
+  border-width: 8px;
+}
+.bottom-container {
+  background-color: #ff9292;
+  padding:50px;
+  position: relative;
+  bottom: 0px;
+}
+
+.btn{
+  background-color:#ff9292;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  color: #DDD;
+  position: relative;
+  bottom: 15px;
+  border-style: none;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 8px;
+  font-weight: bold;
+}
+.btn:hover{
+  color: grey;
+}
+.footer-link img{
+  border-radius: 3px;
+
+  width:20px;
+  height: 20px;
+  color: #ff9292;
+  margin: 0;
+  margin-left: 5px;
+
+}
+.copyright {
+  margin:0;
+  padding:0;
+  color: #fff;
+  font-size: 15px;
+  margin-top: 2px;
+}
+.skill-row {
+  width: 50%;
+  text-align: left;
+  margin:50px auto 50px auto;
+  line-height: 1.5;
+}
+.contact-me p{
+  margin-bottom: 50px;
+}
+.profile{
+  width:50%;
+  margin: auto;
+  text-align: center;
+}
