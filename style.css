@@ -5,9 +5,10 @@ body{
 
 
 }
-.mountain {
+ img {
   max-width: 100%;
   height: auto;
+   position:relative;
 }
 h1{
   margin: 40px auto 0 auto;
