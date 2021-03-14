@@ -5,6 +5,10 @@ body{
 
 
 }
+img {
+  max-width: 100%;
+  height: auto;
+}
 h1{
   margin: 40px auto 0 auto;
   font-family: 'Sacramento', cursive;
