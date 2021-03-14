@@ -48,17 +48,18 @@ p {
  .pro {
    text-decoration: underline;
  }
-/* .top-cloud {
+.top-cloud {
   position: absolute;
-  right: 300px;
-  top: 50px;
+/*   right: 300px;
+  top: 50px; */
+  
 
 }
 .bottom-cloud {
   position: absolute;
-  left: 300px;
-  bottom: 300px;
-} */
+/*   left: 300px;
+  bottom: 300px; */
+}
 .profile img {
   margin-top: 10px;
   width: 150px;
